@@ -1,5 +1,0 @@
-pyyaml
-pexpect
-wexpect
-coloredlogs
-verboselogs
